@@ -1,0 +1,29 @@
+body {
+    background-color: lightgrey;
+    width: 20%;
+    height: 10cm;
+margin: 8cm auto   auto auto;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large
+}
+
+p {
+    font-size: larger;
+}
+
+strong {
+color: red;
+font-size: x-large;
+}
+
+div {
+    border: solid;
+    padding: 12%;
+    border-image-source:url(képek/Cartoon.jpg);
+    box-shadow:20px 20px 25px black;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
